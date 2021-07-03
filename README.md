@@ -26,18 +26,18 @@ The document  is used to maintain efficiently the HR department schedule of any 
 6.	Timely Report generation. 
 
  
-ER Diagram
+# ER Diagram
 
 The main objective of this document is to reduce the effort of administrator to keep the daily events such as payroll, recruitment, attendance , and employees’ details. It consists of seven modules. 
 
 They are:- 
-1.	Login 
-2.	Employee Details 
-3.	Departments 
-4.	Recruitment (Candidate Application Form) 
-5.	Attendance 
-6.	Leave Management:
-7.	Payroll
+## 1.	Login 
+## 2.	Employee Details 
+## 3.	Departments 
+## 4.	Recruitment (Candidate Application Form) 
+## 5.	Attendance 
+## 6.	Leave Management:
+## 7.	Payroll
   
 Fig 1: Overview of Human Resource Management Systems 
  
@@ -86,7 +86,7 @@ All the employees’ pay details are maintained by the HR manager. The main func
 
 
  
-II.	Tables 
+## II.	Tables 
 2.1 LOGIN 
 
  
@@ -101,11 +101,11 @@ II.	Tables
  
  
  
-III.	 Input Key 
+## III.	 Input Key 
 The goal of input key is to input data as accurately as possible. Here inputs are designed effectively so that the error made by operation is minimized. The input to the system has been designed and coordination in such way that there format is similar in all forms. Forms are designed in such way that relevant information is grouped together and they are placed on a single frame, so as to access easily. At the time of data entry the verification and validation of the data were done. 
 Input key is the most part of the overall system design, which requires very careful attention. Often the collection of the input data is most expensive part of the system. Many errors may occur during the phase of the design. So to make the system study, the inputs given by the user is strictly validated before making a manipulation with it. 
  
-IV.	 Output Key 
+## IV.	 Output Key 
 The output key is another very important phase. The outputs are mainly used to communicate with the user, processing the input data given by the user. It is documented in each stage of the project to ensure free output. The output screens are designed in very simple and easy to understand format. The quality, urgency and the frequency of outputs should be taken into consideration. All user option is presented in well-formatted  forms. The quality refers to the way by which the output is presented to the user. 
 The reports can be used for day-to-day functioning of the business as well as management information. The reports, if generated with the specific report criteria and in a timely manner, help in operational efficiency, detecting and minimizing of errors as well as provide the pointers towards control weakness. 
  
@@ -199,11 +199,11 @@ V.	Testing Phase
 13.	 Recruitment Module 
   
 
-How to run:
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+# How to run:
+## pip install -r requirements.txt
+## python manage.py makemigrations
+## python manage.py migrate
+## python manage.py runserver
  
 
 
