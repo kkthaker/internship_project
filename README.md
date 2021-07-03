@@ -114,90 +114,56 @@ Output screen are designed in such a way that no ambiguity arises. Output data i
 
 V.	Testing Phase 
 1.	Home Page 
- 
- 
-
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353071-cc9ffa80-dc21-11eb-833d-571eaccf8dc6.png)
 
 
 2.	Candidate Application Form 
-  
+![image](https://user-images.githubusercontent.com/63163693/124353080-dcb7da00-dc21-11eb-968b-ff680001f4c0.png)
+
 
 3.	Administrator Login Module 
+![image](https://user-images.githubusercontent.com/63163693/124353087-efcaaa00-dc21-11eb-883c-49733171f893.png)
 
-  
-
-
- 
  
 4.	Administrator Registration 
-  
-
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353094-fc4f0280-dc21-11eb-90f6-952c6fbdd022.png)
 
 
 5.	Add Department Module
-
-  
-
+![image](https://user-images.githubusercontent.com/63163693/124353099-06710100-dc22-11eb-8847-4a4f1aa4667e.png)
 
 
 6.	Add New Employee Module 
-
-  
-
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353107-1688e080-dc22-11eb-8f69-e6b48b70acd7.png)
 
 
 7.	Employee Profile 
-
-  
-
+![image](https://user-images.githubusercontent.com/63163693/124353110-1f79b200-dc22-11eb-9786-67bfa0b213d2.png)
 
 
 8.	Dashboard 
-
-  
-
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353118-29031a00-dc22-11eb-80fd-41c644a46f2b.png)
 
 
 9.	Employee Attendance Module 
-
-  
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353122-30c2be80-dc22-11eb-8b62-330b98acf35a.png)
 
 
 10.	Leave management Module 
-
-  
-
-
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353126-3ae4bd00-dc22-11eb-920e-3307676de8d8.png)
 
 
 11.	Payroll Management 
+![image](https://user-images.githubusercontent.com/63163693/124353130-433cf800-dc22-11eb-9371-aa9e620e5e55.png)
 
   
-
-
-
 12.	Department Information 
-
-  
-
-
-
+![image](https://user-images.githubusercontent.com/63163693/124353133-4a640600-dc22-11eb-87e3-bbabcb8d84e1.png)
 
 
 13.	 Recruitment Module 
-  
+![image](https://user-images.githubusercontent.com/63163693/124353138-54860480-dc22-11eb-8886-2d89c562be79.png)
+
 
 # How to run:
 ## pip install -r requirements.txt
